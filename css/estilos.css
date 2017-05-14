@@ -1,0 +1,23 @@
+body{
+  min-height: 200vh;
+}
+.logo{
+  font-weight: 300px;
+  padding-left: 15px;
+}
+.thin-text{
+  font-weight: 300px;
+  background: rgba(96,125,139,.4);
+  padding:40px;
+  border-radius: 10px;
+}
+.section-header{
+  font-weight: 300px;
+}
+.cta{
+  font-weight: 300px;
+  text-shadow: 1px 1px black;
+}
+.contact-form{
+  padding-top: 40px;
+}
